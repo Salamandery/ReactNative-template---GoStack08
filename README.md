@@ -121,9 +121,6 @@ yarn test
 - Estilização moderna com styled-components.
 
 ---
-
-<div align="center">
-
 ## 👤 Autor
 by **Rodolfo M. F. Abreu**
 <p align="center">
